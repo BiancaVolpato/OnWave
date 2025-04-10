@@ -36,7 +36,7 @@ Para o design da nossa interface, utilizamos a ferramenta Figma para a prototipa
 
 Model Canvas MVP:
 
-![CavasMVP](https://media.discordapp.net/attachments/1169305982602584137/1357500633481216093/image.png?ex=67f06e7c&is=67ef1cfc&hm=e91735f57db202cd58020eb85815f8af5e1065b55f648df86b9310c367c47120&)
+![CavasMVP](https://cdn.discordapp.com/attachments/1169305982602584137/1357500633481216093/image.png?ex=67f06e7c&is=67ef1cfc&hm=e91735f57db202cd58020eb85815f8af5e1065b55f648df86b9310c367c47120&)
 
 ****************************************************************************************************************************************************************************************************************************************************************
 
