@@ -30,26 +30,35 @@ Prototipagem de interface e processo de documentação
 Para o design da nossa interface, utilizamos a ferramenta Figma para a prototipagem da interface do nosso chat bot, onde podemos ver como ficará o nosso chat!
 
 
-![Interfaces](https://media.discordapp.net/attachments/1169305982602584137/1357512643090321559/image.png?ex=67f079ab&is=67ef282b&hm=80f0aaa95e0c3f6c961e20139f129652e3c444dbf4b772bf67c3a31204124a28&=&format=webp&quality=lossless&width=1561&height=960)
+![Interfaces](https://i.pinimg.com/736x/bc/8d/8a/bc8d8a67c0c9a189072bb7a436889be3.jpg)
 
 ****************************************************************************************************************************************************************************************************************************************************************
 
 Model Canvas MVP:
 
-![CanvasMVP](https://cdn.discordapp.com/attachments/1169305982602584137/1357500633481216093/image.png?ex=67f06e7c&is=67ef1cfc&hm=e91735f57db202cd58020eb85815f8af5e1065b55f648df86b9310c367c47120&)
+![CanvasMVP](https://i.pinimg.com/736x/47/87/5f/47875f0f78460562f9f8739ac0ed5f0a.jpg)
 
 ****************************************************************************************************************************************************************************************************************************************************************
 
 Mapa de Funcionalidades:
 
-![Funcionalidades](https://media.discordapp.net/attachments/1169305982602584137/1357501663707005030/image.png?ex=67f06f71&is=67ef1df1&hm=fc50362232499c90ca7de31b83dfbcb1badf4fb5cba03f886fdd271aa25bad55&=&format=webp&quality=lossless)
+![Funcionalidades](https://i.pinimg.com/736x/d4/42/cf/d442cf9bc506d71401cac7ea2e9bac35.jpg)
 
 ****************************************************************************************************************************************************************************************************************************************************************
 
-Fluxo conversacional:
+## PMI III
 
 
+A equipe teve um foco melhor em documentação do projeto.
+
+Diagrama de classe:
+
+
+![DiagramadeClasse](https://i.pinimg.com/736x/9a/df/0f/9adf0fe0a1ee40952410e39b6c9da7e5.jpg)
 
 ****************************************************************************************************************************************************************************************************************************************************************
 
-BPMN:
+BPMN: 
+
+
+![BPMN](https://i.pinimg.com/736x/c8/12/95/c81295d6cf728e51542e03f2afa3f99f.jpg)
