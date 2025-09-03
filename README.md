@@ -49,7 +49,7 @@ Mapa de Funcionalidades:
 ## PMI III
 
 
-A equipe teve um foco melhor em documentação do projeto.
+Obtivemos mudança no metodo do chat bot. Alteramos para o foco em desenvolver o mesmo utilizando API da OpenAi. Atualizamos o nosso digrama de classe baseado nessa mudança.
 
 Diagrama de classe:
 
@@ -58,7 +58,3 @@ Diagrama de classe:
 
 ****************************************************************************************************************************************************************************************************************************************************************
 
-BPMN: 
-
-
-![BPMN](https://i.pinimg.com/736x/c8/12/95/c81295d6cf728e51542e03f2afa3f99f.jpg)
